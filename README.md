@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Software dev
 - 🌱 I’m currently learning ... DSA 
 - 💞️ I’m looking to collaborate on ... Software companies for intern
-- 📫 How to reach me ... adhiadhi123890@gmail.com
+- 📫 How to reach me ... ygokulaadarsh@gmail.com
 
 <!---
 aadarsh1-prog/aadarsh1-prog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
